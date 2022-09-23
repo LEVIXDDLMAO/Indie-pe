@@ -1,0 +1,77 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "No-mechanics, Hard, Hell",
+	"hideFreeplay": false,
+	"weekBackground": "IndieCross/menu_black",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Satanic-funkin",
+			"devil",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Ritual",
+			"sammy",
+			[
+				100,
+				53,
+				21
+			]
+		],
+		[
+			"BoneDoggle",
+			"sans papyrus",
+			[
+				135,
+				141,
+				147
+			]
+		],
+		[
+			"Bad-To-The-Bone",
+			"papyrus",
+			[
+				135,
+				141,
+				147
+			]
+		],
+		[
+			"Freaky-Machine",
+			"bendyDA",
+			[
+				70,
+				82,
+				94
+			]
+		],
+		[
+			"Build-Our-Freaky-Machine",
+			"bendyDA",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"IndieCross/BonusWeek",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "BonusSongs-Week"
+}
