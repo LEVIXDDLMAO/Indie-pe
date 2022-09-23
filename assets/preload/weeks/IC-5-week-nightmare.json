@@ -2,7 +2,7 @@
 	"storyName": "indie Cross Nightmare Songs",
 	"difficulties": "No-Mechanics, Hard, Hell",
 	"hideFreeplay": false,
-	"weekBackground": "IndieCross/menu_black",
+	"weekBackground": "menu_black",
 	"weekBefore": "",
 	"freeplayColor": [
 		146,
@@ -42,7 +42,7 @@
 	],
 	"weekCharacters": [
 		"",
-		"IndieCross/NightmareWeek",
+		"NightmareWeek",
 		""
 	],
 	"hiddenUntilUnlocked": false,

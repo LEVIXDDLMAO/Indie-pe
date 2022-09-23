@@ -2,7 +2,7 @@
 	"storyName": "Your New Week",
 	"difficulties": "No-mechanics, Hard, Hell",
 	"hideFreeplay": false,
-	"weekBackground": "IndieCross/menu_black",
+	"weekBackground": "menu_black",
 	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
@@ -69,7 +69,7 @@
 	],
 	"weekCharacters": [
 		"",
-		"IndieCross/BonusWeek",
+		"BonusWeek",
 		""
 	],
 	"hiddenUntilUnlocked": false,

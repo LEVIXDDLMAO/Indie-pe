@@ -11,8 +11,8 @@
 	"weekBefore": "tutorial",
 	"startUnlocked": true,
 	"weekCharacters": [
-		"IndieCross/ICBendy",
-		"IndieCross/BendyWeek",
+		"ICBendy",
+		"BendyWeek",
 		""
 	],
 	"songs": [

@@ -2,7 +2,7 @@
 	"storyName": "Indie Cross Cuphead Week",
 	"difficulties": "No-mechanics,Hard,Hell",
 	"hideFreeplay": false,
-	"weekBackground": "IndieCross/menu_tree",
+	"weekBackground": "menubackgrounds/menu_tree",
 	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
@@ -42,8 +42,8 @@
 	],
 	"weekCharacters": [
 		"",
-		"IndieCross/CupheadWeek",
-		"IndieCross/ICCuphead"
+		"CupheadWeek",
+		"ICCuphead"
 	],
 	"hiddenUntilUnlocked": false,
 	"weekName": "Cuphead Week"
