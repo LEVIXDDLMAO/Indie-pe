@@ -1,4 +1,4 @@
 tutorial
 IC-1-week-cuphead
 IC-2-week-sans
-IC-3-bendy
+IC-3-week-bendy
