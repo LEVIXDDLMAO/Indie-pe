@@ -2,7 +2,7 @@
 	"storyName": "Indie Cross Cuphead Week",
 	"difficulties": "No-mechanics,Hard,Hell",
 	"hideFreeplay": false,
-	"weekBackground": "menubackgrounds/menu_tree",
+	"weekBackground": "menu_tree",
 	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
