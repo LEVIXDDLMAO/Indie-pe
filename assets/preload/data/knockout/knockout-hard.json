@@ -8900,7 +8900,7 @@
 		"stage": "cupheadRainStage",
 		"needsVoices": true,
 		"sections": 0,
-		"noteStyle": "normal",
+		"noteStyle": "Cuphead_NOTE_assets",
 		"bpm": 136
 	}
 }

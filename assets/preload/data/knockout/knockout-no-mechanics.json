@@ -8609,7 +8609,7 @@
 			}
 		],
 		"player3": "dad",
-		"splashSkin": "noteSplashes",
+		"splashSkin": "IC_NoteSplash",
 		"song": "Knockout",
 		"arrowSkin": "",
 		"validScore": true,
@@ -8621,6 +8621,6 @@
 		"needsVoices": true,
 		"sections": 0,
 		"bpm": 136,
-		"noteStyle": "normal"
+		"noteStyle": "Cuphead_NOTE_assets"
 	}
 }
